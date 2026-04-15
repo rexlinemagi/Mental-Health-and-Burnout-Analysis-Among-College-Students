@@ -12,25 +12,6 @@ Three classification algorithms were trained, tuned, and compared. The best-perf
 
 ---
 
-## 📁 Project Structure
-
-```
-student-wellbeing-predictor/
-│
-├── data/                  # Dataset (raw and preprocessed)
-├── notebooks/             # Jupyter notebooks for EDA and modeling
-├── models/                # Saved model files
-├── results/               # Confusion matrices and evaluation outputs
-├── src/                   # Source scripts
-│   ├── preprocess.py
-│   ├── train.py
-│   └── evaluate.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ⚙️ Models Used
 
 ### 🌳 Random Forest Classifier
